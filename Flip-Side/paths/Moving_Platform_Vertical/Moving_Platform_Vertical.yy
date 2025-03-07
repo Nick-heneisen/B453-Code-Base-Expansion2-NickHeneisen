@@ -1,0 +1,18 @@
+{
+  "$GMPath":"",
+  "%Name":"Moving_Platform_Vertical",
+  "closed":false,
+  "kind":0,
+  "name":"Moving_Platform_Vertical",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":224.0,"y":96.0,},
+    {"speed":100.0,"x":224.0,"y":342.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
